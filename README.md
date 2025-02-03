@@ -11,6 +11,7 @@
 Планирую углубленно развиваться в автоматизации тестирования.
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alina.kudukhova19@gmail.com)
+- 📋 Моё резюме: [CV](https://cloud.mail.ru/public/Hhj9/f7CBtQRD3) 
 
 ---
 
