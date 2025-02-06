@@ -51,7 +51,7 @@
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+<!-- ### 📱 Тестирование мобильных приложений:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -60,9 +60,7 @@
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
   <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1605177784429-Proxyman.png" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
-
-
----
+--->
 
 ### 💾 Работа с данными:
 
