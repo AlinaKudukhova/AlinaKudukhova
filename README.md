@@ -1,8 +1,6 @@
 # Привет, меня зовут Кудухова Алина!
 
-
-
-### 👨‍💻 Обо мне:
+## 👨‍💻 Обо мне:
 
 Я инженер по обеспечению качества с практическим опытом в тестировании web-приложений более 4-х лет. Умею работать в команде, ответственная, соблюдаю дедлайны. Люблю досконально разбираться в поставленных передо мной вопросах и решать сложные задачи. 
 Стремлюсь развивать свои навыки в тестировании и постоянно обучаться новому, для достижения высоких результатов в своей профессии.
@@ -10,23 +8,17 @@
 Моя цель - стать ключевым элементом в команде QA, применяя свой опыт для достижения высокого качества ПО.
 Планирую углубленно развиваться в автоматизации тестирования.
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alina.kudukhova19@gmail.com)
-- 📋 Моё резюме: [CV](https://cloud.mail.ru/public/Hhj9/f7CBtQRD3) 
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alina.kudukhova19@gmail.com) 
+  [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/alina_kudukhova)
+- 📋 [Моё резюме](https://cloud.mail.ru/public/Hhj9/f7CBtQRD3) 
 
 ---
 
-### 🤝 Социальные сети:
+## 📁 Тестовая документация:
 
-  <div id="badges">
-    <a href="https://t.me/alina_kudukhova" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
+### Опыт работы в Azure DevOps - 4 года.
 
----
-
-### 📁 Тестовая документация:
-
+Так же в рамках курсов были рассмотрены следующие системы:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
@@ -37,9 +29,13 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png?f=webp&w=256" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp
 </div>
 
+#### Тест-кейсы: [Здесь можно ознакомиться с примерами](https://github.com/AlinaKudukhova/test-cases)
+#### Чек-листы: [Здесь можно ознакомиться с примерами](https://github.com/AlinaKudukhova/check-lists)
+#### Баг-репорты: [Здесь можно ознакомиться с примерами](https://github.com/AlinaKudukhova/bug-reports)
+
 ---
 
-### 🛠 Тестирование веб-приложений:
+## 🛠 Тестирование веб-приложений:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -51,18 +47,7 @@
 
 ---
 
-<!-- ### 📱 Тестирование мобильных приложений:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
-  <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1605177784429-Proxyman.png" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
-</div>
---->
-
-### 💾 Работа с данными:
+## 💾 Работа с данными:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -71,7 +56,7 @@
 
 ---
 
-### ✏️ Работа с кодом:
+## ✏️ Работа с кодом:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -80,14 +65,22 @@
   
 </div>
 
+### 📱 Рассмотренные инструменты для тестирование мобильных приложений в рамках обучения:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
+  <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1605177784429-Proxyman.png" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
+</div>
+
 ---
 
 💻 Пройденные курсы:
 | Курсы                                                           | Год окончания              |
 | ----------------------------------------------------------------| :---------------: |
-| Тесты для проверки знаний по тестированию ПО, ProTestingInfo Дудник Н.В. | 2024 |
-| Функциональное тестирование ПО. Артем Русов                     | 2023 |
+| Тесты для проверки знаний по тестированию ПО, ProTestingInfo Дудник Н.В.  [Сертификат](<Сертификат protesting.pdf>) | 2024 |
+| Функциональное тестирование ПО. Артем Русов  [Сертификат](<Сертификат от Артема Русова.pdf>)       | 2023 |
 | Профессиональный курс подготовки QA. Леша Маршал                | 2021 |
-| Проектирование и разработка современных Интернет-приложений Северо-Кавказский горно-металлургический институт (Государственный технологический университет)   | 2017 |
-
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+| Проектирование и разработка современных Интернет-приложений Северо-Кавказский горно-металлургический институт (Государственный технологический университет) [Сертификат](<Отсканированные документы.pdf>)  | 2017 |
