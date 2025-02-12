@@ -38,16 +38,14 @@
 ## 🛠 Тестирование веб-приложений:
 
 Для просмотра коллекций Postman, кликни на иконку.
-Soapui изучала в рамках курса.
-Использую Chrome DevTools
-
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <a href="https://github.com/AlinaKudukhova/postman">
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
   </a>
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/soapui-icon.png" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
+Soapui изучала в рамках курса.
 
 ---
 
@@ -55,6 +53,7 @@ Soapui изучала в рамках курса.
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="postgresql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
@@ -76,8 +75,8 @@ Soapui изучала в рамках курса.
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
+  <img src="https://www.charlesproxy.com/assets/img/logo.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
   <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1605177784429-Proxyman.png" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
