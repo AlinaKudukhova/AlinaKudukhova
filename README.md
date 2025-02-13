@@ -52,8 +52,12 @@ Soapui изучала в рамках курса.
 ## 💾 Работа с данными:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="postgresql" alt="mysql" width="40" height="40"/>&nbsp
+   <a href="https://github.com/AlinaKudukhova/MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  </a>
+  <a href="https://github.com/AlinaKudukhova/postgresql">
+     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
@@ -75,8 +79,8 @@ Soapui изучала в рамках курса.
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
-  <img src="https://www.charlesproxy.com/assets/img/logo.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://camo.githubusercontent.com/2ac257fee629c0771292174b654c2db14dc335051c197fa88f9bb46d0cc5cb11/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d7750436d426f39564148552f5836524669696177466b492f4141414141414141466c592f37437262736b35456c65344f577038464c33354842722d46723744543041394c51434c63424741735948512f733230302f466964646c65722d457665727977686572652d49636f6e2e706e67" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
   <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1605177784429-Proxyman.png" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
