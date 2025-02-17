@@ -51,6 +51,8 @@ Soapui изучала в рамках курса.
 
 ## 💾 Работа с данными:
 
+Для просмотра запросов в MySQL и PostgreSQL кликни на иконку.
+Mongodb рассматривала в рамках курса
 <div>
    <a href="https://github.com/AlinaKudukhova/MySQL">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
