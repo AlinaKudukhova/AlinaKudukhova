@@ -45,7 +45,6 @@
   </a>
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/soapui-icon.png" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
-Soapui изучала в рамках курса.
 
 ---
 
@@ -61,7 +60,6 @@ Soapui изучала в рамках курса.
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
-Mongodb рассматривала в рамках курса.
 
 ---
 
